@@ -1,4 +1,4 @@
 # tutorials
 my tutorials
 
-[HowToMakeDocs](./HowToMakeDocs/index.html)
+[HowToMakeDocs](http://iridescent.ink/HowToMakeDocs/)
