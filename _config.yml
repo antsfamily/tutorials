@@ -1,0 +1,16 @@
+title: tutorials
+description: by zhi & yan
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-cayman
+markdown: kramdown
+kramdown:
+  input: GFM
+  extensions:
+    - autolink
+    - footnotes
+    - smart
+  use_coderay: true
+  syntax_highlighter: rouge
+  coderay:
+    coderay_line_numbers:  nil
