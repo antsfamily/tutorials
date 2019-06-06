@@ -6,4 +6,6 @@
 
 - [HowToMakeDocs On GitHub](https://iridescent.ink/HowToMakeDocs/): A tutorial on how to make beauty documents with Sphinx. ( latest, **Sphinx, Rest, Git, API manual, etc. ** )
 
+- [Deep Generative Models](./pdf/DeepGenerativeModels.pdf): A tutorial on deep generative and energy based models
+
 
